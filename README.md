@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabor Zakhar</h1>
 <h3 align="center">A passionate junior frontend/full-stack developer from Hungary ({Living in Sweden})</h3>
 
-- 🔭 I’m currently working on [A mobile App for myself](https://github.com/GZakhar88/MyHistamineApp)
+- 🔭 I’m currently working on **Car rental full-stack application**(Java/Springboot/React/Azure/Postgres)
 
-- 🌱 I’m currently learning **Swift, React-Native ({maybe Vue in the future})**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Any super-fun project**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **g.zakhar@gmail.com**
 
-- ⚡ Fun fact **If I win on the lottery I move into a small shelter into the Alps.**
+- ⚡ Fun fact **If I win the lottery I move into a small shelter in the Alps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
