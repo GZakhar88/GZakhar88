@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabor Zakhar</h1>
-<h3 align="center">A passionate junior frontend/full-stack developer from Hungary ({Living in Sweden})</h3>
+<h3 align="center">A passionate full-stack developer from Hungary ({Living in Sweden})</h3>
 
 - 🔭 I’m currently working on **Car rental full-stack application**(Java/Springboot/React/Azure/Postgres)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Swift**
 
 - 👯 I’m looking to collaborate on **Any super-fun project**
 
